@@ -18,10 +18,11 @@ The contents are organised by semester, with submodules for each different cours
     * Course-Advanced-Algorithms-And-Applications-USP
     * Curso-Introducao-a-Ciencia-da-Computacao-II (_Introduction to Computer Science II_)
     
-* **2022-1 (2022 First Semester)
+* **2022-1 (2022 First Semester)**
     * CalculoNumerico (_Numerical Analysis_)
     * Curso_EngenhariaDeSoftware (_Software Engineering_)
     * Curso_OrganizacaoDeArquivos (_File Organization_)
     * Curso_OrganizacaoEArquiteturaDeComputadores (_Organization and Architecture of Computers_)
     * Curso_RedesComplexas (_Complex Networks_)
     * ImageProcessingCourse
+    * SCC0250_ComputacaoGrafica (_Computer Graphics_)
