@@ -37,3 +37,6 @@
 [submodule "2022-1/CalculoNumerico"]
 	path = 2022-1/CalculoNumerico
 	url = https://github.com/gustavosb64/CalculoNumerico.git
+[submodule "2022-1/SCC0250_ComputacaoGrafica"]
+	path = 2022-1/SCC0250_ComputacaoGrafica
+	url = https://github.com/gustavosb64/SCC0250_ComputacaoGrafica.git
