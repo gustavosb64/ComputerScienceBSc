@@ -1,3 +1,6 @@
 [submodule "Curso-Introducao-a-Ciencia-da-Computacao-I"]
 	path = Curso-Introducao-a-Ciencia-da-Computacao-I
 	url = https://github.com/gustavosb64/Curso-Introducao-a-Ciencia-da-Computacao-I.git
+[submodule "EstruturasDeDados"]
+	path = EstruturasDeDados
+	url = https://github.com/gustavosb64/EstruturasDeDados.git
