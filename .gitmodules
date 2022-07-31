@@ -5,8 +5,14 @@
 	path = 2020-2/EstruturasDeDados
 	url = https://github.com/gustavosb64/EstruturasDeDados.git
 [submodule "Lab-Introducao-a-Ciencia-da-Computacao-I"]
-	path = Lab-Introducao-a-Ciencia-da-Computacao-I
+	path = 2021-1/Lab-Introducao-a-Ciencia-da-Computacao-I
 	url = https://github.com/gustavosb64/Lab-Introducao-a-Ciencia-da-Computacao-I.git
 [submodule "Course-Advanced-Algorithms-And-Applications-USP"]
 	path = Course-Advanced-Algorithms-And-Applications-USP
 	url = https://github.com/gustavosb64/Course-Advanced-Algorithms-And-Applications-USP.git
+[submodule "2021-1/Curso-Grafos"]
+	path = 2021-1/Curso-Grafos
+	url = https://github.com/gustavosb64/Curso-Grafos.git
+[submodule "2021-1/TrabalhosPOO"]
+	path = 2021-1/TrabalhosPOO
+	url = https://github.com/gustavosb64/TrabalhosPOO.git
