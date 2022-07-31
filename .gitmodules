@@ -19,3 +19,21 @@
 [submodule "2021-2/Curso-Introducao-a-Ciencia-da-Computacao-II"]
 	path = 2021-2/Curso-Introducao-a-Ciencia-da-Computacao-II
 	url = https://github.com/gustavosb64/Curso-Introducao-a-Ciencia-da-Computacao-II.git
+[submodule "2022-1/Curso_EngenhariaDeSoftware"]
+	path = 2022-1/Curso_EngenhariaDeSoftware
+	url = https://github.com/gustavosb64/Curso_EngenhariaDeSoftware.git
+[submodule "2022-1/Curso_OrganizacaoEArquiteturaDeComputadores"]
+	path = 2022-1/Curso_OrganizacaoEArquiteturaDeComputadores
+	url = https://github.com/gustavosb64/Curso_OrganizacaoEArquiteturaDeComputadores.git
+[submodule "2022-1/Curso_RedesComplexas"]
+	path = 2022-1/Curso_RedesComplexas
+	url = https://github.com/gustavosb64/Curso_RedesComplexas.git
+[submodule "2022-1/ImageProcessingCourse"]
+	path = 2022-1/ImageProcessingCourse
+	url = https://github.com/gustavosb64/ImageProcessingCourse.git
+[submodule "2022-1/Curso_OrganizacaoDeArquivos"]
+	path = 2022-1/Curso_OrganizacaoDeArquivos
+	url = https://github.com/gustavosb64/Curso_OrganizacaoDeArquivos.git
+[submodule "2022-1/CalculoNumerico"]
+	path = 2022-1/CalculoNumerico
+	url = https://github.com/gustavosb64/CalculoNumerico.git
