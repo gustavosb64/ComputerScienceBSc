@@ -7,3 +7,6 @@
 [submodule "Lab-Introducao-a-Ciencia-da-Computacao-I"]
 	path = Lab-Introducao-a-Ciencia-da-Computacao-I
 	url = https://github.com/gustavosb64/Lab-Introducao-a-Ciencia-da-Computacao-I.git
+[submodule "Course-Advanced-Algorithms-And-Applications-USP"]
+	path = Course-Advanced-Algorithms-And-Applications-USP
+	url = https://github.com/gustavosb64/Course-Advanced-Algorithms-And-Applications-USP.git
