@@ -4,3 +4,6 @@
 [submodule "EstruturasDeDados"]
 	path = EstruturasDeDados
 	url = https://github.com/gustavosb64/EstruturasDeDados.git
+[submodule "Lab-Introducao-a-Ciencia-da-Computacao-I"]
+	path = Lab-Introducao-a-Ciencia-da-Computacao-I
+	url = https://github.com/gustavosb64/Lab-Introducao-a-Ciencia-da-Computacao-I.git
